@@ -1,0 +1,467 @@
+.trand {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.kaif {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.best {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.centered-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* Заполнить всю высоту окна просмотра */
+}
+.content {
+	text-align: center;
+}
+.on {
+	display: none;
+}
+@media (max-width: 767px) {
+	.body{
+		max-width: 100%;
+	}
+	.navbar {
+	
+		max-width: 90%;
+	}
+
+	.row {
+		display: flex;
+		flex-direction: column;
+	}
+	.err {
+		width: 9000px;
+	}
+	.col-3 {
+		width: 750px;
+		padding: 10px;
+		display: none;
+	}
+	.col-4 {
+		width: 750px;
+		padding: 10px;
+		display: none;
+	}
+	.ekaa{
+		display: block;
+	}
+	.off {
+		display: none;
+	}
+	.on {
+		display: block;
+	}
+	.centered-content {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		/* Заполнить всю высоту окна просмотра */
+	}
+	.content {
+		text-align: center;
+	}
+}
+.nav1 {
+	color: inherit;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 20px;
+}
+.nav2 {
+	color: inherit;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 20px;
+}
+.nav3 {
+	color: inherit;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 20px;
+}
+.nav4 {
+	color: inherit;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 20px;
+}
+.nav5 {
+	color: inherit;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 20px;
+}
+.nav1:hover {
+	color: grey;
+}
+.nav2:hover {
+	color: grey;
+}
+.nav3:hover {
+	color: grey;
+}
+.nav4:hover {
+	color: grey;
+}
+.nav5:hover {
+	color: grey;
+}
+.text {
+	color: #565656;
+	font-family: Libre Baskerville;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.knop {
+	padding: 10px;
+	border-radius: 10px;
+	border: 2px solid #222;
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	background: none;
+}
+.knop:hover {
+	background-color: grey;
+}
+.wom {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.brd {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.oce {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.minrs {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.maxrs {
+	color: #848484;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration-line: strikethrough;
+}
+.sale {
+	color: #0a8200;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.deal {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.off {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.text312 {
+	color: #fff;
+	font-family: Libre Baskerville;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.knop123 {
+	color: #fff;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	background: none;
+	border-radius: 10px;
+	border: 2px solid #fff;
+}
+.knop123:hover {
+	background-color: grey;
+}
+.invite {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.nvv {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.eske {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.eske2 {
+	color: #272727;
+	text-align: center;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.dar {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.dar2 {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.dar3 {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.dar4 {
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.dar5 {
+	display: flex;
+	width: 168px;
+	height: 48px;
+	padding: 13px 36px;
+	justify-content: center;
+	align-items: center;
+	flex-shrink: 0;
+	border-radius: 10px;
+	border: 2px solid #272727;
+}
+.dar5:hover {
+	background-color: grey;
+}
+.dar10{
+align-items: center;
+	width: 240px;
+height: 70px;
+padding: 13px 36px;
+
+
+	border-radius: 10px;
+border: 2px solid #272727;
+}
+.knopo{
+	width: 150px;
+	height: 60px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #000000;
+font-family: Libre Baskerville;
+font-size: 24px;
+font-style: normal;
+font-weight: 400px;
+line-height: normal;
+	background: none;
+	border-radius: 10px;
+border: 2px solid #000000;
+}
+.knopo:hover{
+	background-color: #030303;
+	color:white;
+}
+.knop12345{
+	height: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #FFF;
+font-family: Libre Baskerville;
+font-size: 24px;
+font-style: normal;
+font-weight: 400px;
+line-height: normal;
+	background: none;
+	border-radius: 10px;
+border: 2px solid #FFF;
+}
+.knop12345:hover{
+	background-color: rgb(31, 26, 26);
+	border: 2px solid #030303;
+}
+.dar10:hover {
+	background-color: grey;
+}
+.trand1 {
+	padding: 10px;
+	color: #272727;
+	font-family: Libre Baskerville;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.globex {
+	color: #fff;
+	font-family: Libre Baskerville;
+	font-size: 64px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.d-flex {
+	color: #848484;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+input[type='search'] {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-image: url('/Новая\ папка/cil_search.png');
+	background-size: 20px 20px;
+	background-position: right 10px center;
+	background-repeat: no-repeat;
+}
+.list-unstyled pt-2 {
+	color: #fff;
+	font-family: Libre Baskerville;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.d-flex {
+	width: 534px;
+	height: 52px;
+	flex-shrink: 0;
+	border-radius: 8px;
+	background: #f0f0f0;
+}
+.zxc-1 {
+	color: #fff;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.py-1 {
+	color: #fff;
+	font-family: Libre Baskerville;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.py-1:hover {
+	background-color: grey;
+	border-radius: 5px;
+}
+.btn123:hover {
+	background-color: grey;
+}
+.btn124:hover {
+	background-color: grey;
+	display: none;
+}
